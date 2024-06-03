@@ -1,2 +1,2 @@
 # Zad2
-Rozwiązanie zadania znajduje się w skecji tags
+### Rozwiązanie zadania znajduje się w skecji tags
